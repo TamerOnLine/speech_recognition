@@ -1,0 +1,33 @@
+# بيئة افتراضية
+venv/
+
+# ملفات الفيديو أو الصوت الكبيرة
+*.mp4
+*.wav
+*.m4a
+*.mov
+
+# نتائج Whisper
+output.txt
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات VS Code
+.vscode/
+*.code-workspace
+
+# ملفات بايثون مؤقتة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ملفات الضغط
+*.zip
+*.7z
+*.rar
+
+ffmpeg/bin/
+
